@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-# Welcome to My Site
+# Ernesto Pandelet Durán
 
 - [My CV](/cv/)
 - [My Blog](/blog/)
