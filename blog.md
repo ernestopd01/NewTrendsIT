@@ -8,16 +8,15 @@ permalink: /blog/
 
 Here you will know more about my professional life
 
-## Entry 1
+## Experiencia en el sector de la automoción
 Date: January 1, 2025
 
-Example 1
 
 ---
 
-## Entry 2
+## Desarrollo de algoritmos de automatización para el análisis de tickets
 Date: February 1, 2025
 
-Example 2
+
 
 [Back to Home](/)
