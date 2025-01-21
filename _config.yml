@@ -1,3 +1,4 @@
 title: "My  Site"
 description: "Home, CV, Blog"
 theme: jekyll-theme-minimal  # or jekyll-theme-cayman, jekyll-theme-slate, etc.
+baseurl: "/NewTrendsIT"
