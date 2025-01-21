@@ -5,7 +5,7 @@ title: "Home"
 
 # Welcome to My Site
 
-- [My CV]({{ site.baseurl }}/cv/)
-- [My Blog]({{ site.baseurl }}/blog/)
+- [My CV](/cv/)
+- [My Blog](/blog/)
 
 
